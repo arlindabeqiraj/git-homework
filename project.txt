@@ -1,1 +1,3 @@
 Project started
+Added new feature
+Fixed bugs
