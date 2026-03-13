@@ -1,3 +1,4 @@
 Project started
 Added new feature
 Fixed bugs
+Database connection: MySQL configured
